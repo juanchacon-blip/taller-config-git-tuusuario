@@ -12,8 +12,8 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "env": {
-                "APP_MODE": "desarrollo"
-                    }
+                "APP_MODE": "prueba"
+            }
         }
     ]
 }
